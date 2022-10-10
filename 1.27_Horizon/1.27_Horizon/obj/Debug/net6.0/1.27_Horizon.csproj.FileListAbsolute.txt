@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\bin\Debug\net6.0\1.27_Horizon.exe
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\bin\Debug\net6.0\1.27_Horizon.deps.json
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\bin\Debug\net6.0\1.27_Horizon.runtimeconfig.json
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\bin\Debug\net6.0\1.27_Horizon.dll
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\bin\Debug\net6.0\1.27_Horizon.pdb
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.AssemblyInfo.cs
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.dll
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\refint\1.27_Horizon.dll
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.pdb
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\1.27_Horizon.genruntimeconfig.cache
+C:\Users\artem\source\repos\1.27_Horizon\1.27_Horizon\obj\Debug\net6.0\ref\1.27_Horizon.dll
